@@ -1,6 +1,6 @@
 {
-  "name": "@canvacord/assets",
-  "version": "2.1.0",
+  "name": "assets",
+  "version": "1.0.0",
   "description": "Assets used in Canvacord",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
